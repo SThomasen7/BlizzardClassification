@@ -1,6 +1,6 @@
-## ATMS 526 Blizzard Classification Project
+# ATMS 526 Blizzard Classification Project
 
-# Author: Scott Andersen
+## Scott Andersen
 Final projet for ATMS 526 at the University of Illinois Urbana-Champaign
 ATMS 526 - Risk Analysis in the Geosciences
 Dr. Ryan Sriver
