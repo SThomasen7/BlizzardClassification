@@ -1,5 +1,10 @@
 ## ATMS 526 Blizzard Classification Project
 
+# Author: Scott Andersen
+Final projet for ATMS 526 at the University of Illinois Urbana-Champaign
+ATMS 526 - Risk Analysis in the Geosciences
+Dr. Ryan Sriver
+
 Note that most data files were removed due to their large size and github restrictions.
 
 ISD_data/ contains the logic to download and parse integrated surface data
