@@ -1,0 +1,1479 @@
+STATE,ZONE,STATION_CALL_ID
+AL,'Butler',KPRN 
+AL,'Calhoun',KANB 
+AL,'Colbert',KMSL 
+AL,'Cullman',K3A1 
+AL,'Dale',KHEY 
+AL,'Dale',KLOR 
+AL,'DeKalb',K4A9 
+AL,'Etowah',KGAD 
+AL,'Jefferson',KBHM 
+AL,'Lee',KAUO 
+AL,'Limestone',KDCU 
+AL,'Madison',KHSV 
+AL,'Madison',KHUA 
+AL,'Madison',KMDQ 
+AL,'Marshall',K8A0 
+AL,'Montgomery',KMGM 
+AL,'Montgomery',KMXF 
+AL,'Pike',KTOI 
+AL,'Shelby',KEET 
+AL,'Tallapoosa',KALX 
+AL,'Tuscaloosa',KTCL 
+AL,'Winston',K1M4 
+AR,'Baxter',KBPK 
+AR,'Benton',KROG 
+AR,'Benton',KSLG 
+AR,'Benton',KVBT 
+AR,'Benton',KXNA 
+AR,'Boone County Except Southwest',KHRO 
+AR,'Central and Eastern Montgomery County',KMWT 
+AR,'Clay',K4M9 
+AR,'Craighead',KJBR 
+AR,'Crittenden',KAWM 
+AR,'Drew',KLLQ 
+AR,'Garland',KHOT 
+AR,'Independence',KBVX 
+AR,'Jackson',KM19 
+AR,'Jefferson',KPBF 
+AR,'Lawrence',KARG 
+AR,'Marion',KFLP 
+AR,'Miller',KTXK 
+AR,'Mississippi',KBYH 
+AR,'Mississippi',KHKA 
+AR,'Ouachita',KCDH 
+AR,'Polk County Lower Elevations',KMEZ 
+AR,'Prairie',KSGT 
+AR,'Pulaski',KLIT 
+AR,'Pulaski',KLRF 
+AR,'Sebastian',KFSM 
+AR,'Sevier',KDEQ 
+AR,'Southeast Van Buren County',KCCA 
+AR,'Southern Pope County',KRUE 
+AR,'Union',KELD 
+AR,'Washington',KASG 
+AR,'Washington',KFYV 
+AR,'White',KSRC 
+AZ,'Chuska Mountains and Defiance Plateau',KRQE 
+AZ,'Eastern Cochise County Below 5000 Feet including Douglas/Willcox',KDUG 
+AZ,'Grand Canyon Country',KGCN 
+AZ,'Little Colorado River Valley in Apache County',KSJN 
+AZ,'Little Colorado River Valley in Navajo County',KINW 
+AZ,'Marble and Glen Canyons',KPGA 
+AZ,'Northwest Deserts',KIGM 
+AZ,'Oak Creek and Sycamore Canyons',KSEZ 
+AZ,'Tucson Metro Area including Tucson/Green Valley/Marana/Vail',KDMA 
+AZ,'Tucson Metro Area including Tucson/Green Valley/Marana/Vail',KRYN 
+AZ,'Tucson Metro Area including Tucson/Green Valley/Marana/Vail',KTUS 
+AZ,'Upper Gila River and Aravaipa Valleys including Clifton/Safford',KSAD 
+AZ,'Upper San Pedro River Valley including Sierra Vista/Benson',KALK 
+AZ,'Upper San Pedro River Valley including Sierra Vista/Benson',KFHU 
+AZ,'Western Mogollon Rim',KCMR 
+AZ,'Western Mogollon Rim',KFLG 
+AZ,'White Mountains',KSOW 
+AZ,'Yavapai County Valleys and Basins',KPRC 
+CA,'Antelope Valley',KPMD 
+CA,'Antelope Valley',KWJF 
+CA,'Apple and Lucerne Valleys',KVCV 
+CA,'Central Sacramento Valley',KBAB 
+CA,'Central Sacramento Valley',KCIC 
+CA,'Central Sacramento Valley',KOVE 
+CA,'Central Siskiyou County',KSIY 
+CA,'Coachella Valley',KPSP 
+CA,'Coastal Del Norte',KCEC 
+CA,'East Bay Interior Valleys',KCCR 
+CA,'East Bay Interior Valleys',KLVK 
+CA,'Greater Lake Tahoe Area',KTRK 
+CA,'Greater Lake Tahoe Area',KTVL 
+CA,'Indian Wells Valley',KIYK 
+CA,'Indian Wells Valley',KNID 
+CA,'Interstate 5 Corridor',KSDB 
+CA,'Modoc County',KAAT 
+CA,'Mojave Desert Slopes',KMHV 
+CA,'Mono',KBAN 
+CA,'Morongo Basin',KNXP 
+CA,'Motherlode',KAUN 
+CA,'Motherlode',KO22 
+CA,'Motherlode',KPVF 
+CA,'Northern Monterey Bay',KWVI 
+CA,'Northern Sacramento Valley',KRBL 
+CA,'Northern Sacramento Valley',KRDD 
+CA,'Northern San Joaquin Valley',KMOD 
+CA,'Northern San Joaquin Valley',KSCK 
+CA,'Owens Valley',KBIH 
+CA,'San Bernardino County Mountains',KL35 
+CA,'San Bernardino and Riverside County Valleys-The Inland Empire',KRIV 
+CA,'San Bernardino and Riverside County Valleys-The Inland Empire',KSBD 
+CA,'San Diego County Inland Valleys',KRNM 
+CA,'Santa Clara Valley Including San Jose',KRHV 
+CA,'Santa Clara Valley Including San Jose',KSJC 
+CA,'South Central Siskiyou County',KMHS 
+CA,'Southeastern Mendocino Interior',KUKI 
+CA,'Southern Sacramento Valley',KLHM 
+CA,'Southern Sacramento Valley',KMHR 
+CA,'Southern Sacramento Valley',KSAC 
+CA,'Tehachapi',KTSP 
+CA,'Upper San Joaquin River',KMMH 
+CA,'West Slope Northern Sierra Nevada',KBLU 
+CA,'Western Mojave Desert',KDAG 
+CO,'Alamosa  Vicinity/Central San Luis Valley Below 8500 Ft',KALS 
+CO,'Animas River Basin',KDRO 
+CO,'Boulder And Jefferson Counties Below 6000 Feet/West Broomfield County',KBJC 
+CO,'Central Colorado River Basin',KEGE 
+CO,'Central Gunnison and Uncompahgre River Basin',KMTJ 
+CO,'Central Yampa River Basin',KCAG 
+CO,'Central Yampa River Basin',KEEO 
+CO,'Central Yampa River Basin',KHDN 
+CO,'Central and South Weld County',KGXY 
+CO,'Central and Southeast Park County',K4BM 
+CO,'Colorado Springs Vicinity/Southern El Paso County/Rampart Range Below 7400 Ft',KABH 
+CO,'Colorado Springs Vicinity/Southern El Paso County/Rampart Range Below 7400 Ft',KAFF 
+CO,'Colorado Springs Vicinity/Southern El Paso County/Rampart Range Below 7400 Ft',KCOS 
+CO,'Colorado Springs Vicinity/Southern El Paso County/Rampart Range Below 7400 Ft',KFCS 
+CO,'Debeque to Silt Corridor',KRIL 
+CO,'Del Norte Vicinity/Northern San Luis Valley Below 8500 Ft',K04V 
+CO,'Eastern San Juan Mountains Above 10000 Ft',KCPW 
+CO,'Elbert/Central and East Douglas Counties Above 6000 Feet',KMNH 
+CO,'Four Corners/Upper Dolores River',KCEZ 
+CO,'Gore and Elk Mountains/Central Mountain Valleys',K5SM 
+CO,'Gore and Elk Mountains/Central Mountain Valleys',KASE 
+CO,'Grand Valley',KGJT 
+CO,'Grand and Summit Counties Below 9000 Feet',K20V 
+CO,'Grand and Summit Counties Below 9000 Feet',K3MW 
+CO,'Kit Carson County',KITR 
+CO,'La Junta Vicinity/Otero County',KLHX 
+CO,'Lamar Vicinity/Prowers County',KLAA 
+CO,'Larimer County Below 6000 Feet/Northwest Weld County',KFNL 
+CO,'Leadville Vicinity/Lake County Below 11000 Ft',KLXV 
+CO,'North Douglas County Below 6000 Feet/Denver/West Adams and Arapahoe Counties/East Broomfield County',KAPA 
+CO,'North Douglas County Below 6000 Feet/Denver/West Adams and Arapahoe Counties/East Broomfield County',KBKF 
+CO,'North Douglas County Below 6000 Feet/Denver/West Adams and Arapahoe Counties/East Broomfield County',KDEN 
+CO,'North Douglas County Below 6000 Feet/Denver/West Adams and Arapahoe Counties/East Broomfield County',KFTG 
+CO,'North and Northeast Elbert County Below 6000 Feet/North Lincoln County',KLIC 
+CO,'Northwestern San Juan Mountains',KTEX 
+CO,'Pueblo Vicinity/Pueblo County Below 6300 Feet',KPUB 
+CO,'South and Southeast Grand/West Central and Southwest Boulder/Gilpin/Clear Creek/Summit/North and West Park Counties Above 9000 Feet',K0CO 
+CO,'South and Southeast Grand/West Central and Southwest Boulder/Gilpin/Clear Creek/Summit/North and West Park Counties Above 9000 Feet',KCCU 
+CO,'Southern Sangre De Cristo Mountains Between 7500 and 11000 Ft',KVTP 
+CO,'Southwest San Juan Mountains',KPSO 
+CO,'Trinidad Vicinity/Western Las Animas County Below 7500 Ft',KTAD 
+CO,'Upper Gunnison River Valley',KGUC 
+CO,'Washington County',KAKO 
+CO,'West Elk and Sawatch Mountains',KMYP 
+CO,'Western Chaffee County Between 9000 and 11000 Ft',K7BM 
+CT,'Hartford',KBDL 
+CT,'Hartford',KHFD 
+CT,'Northern Fairfield',KDXR 
+CT,'Northern Middlesex',KSNC 
+CT,'Northern New Haven',KMMK 
+CT,'Northern New Haven',KOXC 
+CT,'Southern Fairfield',KBDR 
+CT,'Southern Fairfield',KHPN 
+CT,'Southern New London',KGON 
+CT,'Windham',KIJD 
+DE,'Inland Sussex',KGED 
+DE,'Kent',KDOV 
+DE,'New Castle',KILG 
+GA,'Baldwin',KMLJ 
+GA,'Barrow',KWDR 
+GA,'Bartow',KVPC 
+GA,'Bibb',KMCN 
+GA,'Chattahoochee',KLSF 
+GA,'Cherokee',K47A 
+GA,'Clarke',KAHN 
+GA,'Clayton',KATL 
+GA,'Cobb',KMGE 
+GA,'Cobb',KRYY 
+GA,'Coweta',KCCO 
+GA,'DeKalb',KPDK 
+GA,'Fayette',KFFC 
+GA,'Floyd',KRMG 
+GA,'Greene',K3J7 
+GA,'Gwinnett',KLZU 
+GA,'Hall',KGVL 
+GA,'Houston',KWRB 
+GA,'McDuffie',KHQU 
+GA,'North Fulton',KFTY 
+GA,'Richmond',KAGS 
+GA,'Richmond',KDNL 
+GA,'Troup',KLGC 
+GA,'Upson',KOPN 
+GA,'Whitfield',KDNN 
+IA,'Appanoose',KTVK 
+IA,'Audubon',KADU 
+IA,'Benton',KVTI 
+IA,'Black Hawk',KALO 
+IA,'Boone',KBNW 
+IA,'Buchanan',KIIB 
+IA,'Buena Vista',KSLB 
+IA,'Carroll',KCIN 
+IA,'Cass',KAIO 
+IA,'Cerro Gordo',KMCW 
+IA,'Cherokee',KCKP 
+IA,'Clay',KSPW 
+IA,'Clinton',KCWI 
+IA,'Crawford',KDNS 
+IA,'Dallas',KPRO 
+IA,'Decatur',KLWD 
+IA,'Des Moines',KBRL 
+IA,'Dubuque',KDBQ 
+IA,'Emmet',KEST 
+IA,'Fayette',KOLZ 
+IA,'Floyd',KCCY 
+IA,'Fremont',KSDA 
+IA,'Hamilton',KEBS 
+IA,'Hancock',KFXY 
+IA,'Hardin',KIFA 
+IA,'Henry',KMPZ 
+IA,'Jasper',KTNU 
+IA,'Jefferson',KFFL 
+IA,'Johnson',KIOW 
+IA,'Jones',KMXO 
+IA,'Kossuth',KAXA 
+IA,'Lee',KEOK 
+IA,'Lee',KFSW 
+IA,'Linn',KCID 
+IA,'Lucas',KCNC 
+IA,'Mahaska',KOOA 
+IA,'Marion',KOXV 
+IA,'Marion',KPEA 
+IA,'Marshall',KMIW 
+IA,'Mills',KOFF 
+IA,'Montgomery',KRDK 
+IA,'Muscatine',KMUT 
+IA,'O'Brien',KSHL 
+IA,'Page',KICL 
+IA,'Plymouth',KLRJ 
+IA,'Polk',KDSM 
+IA,'Polk',KIKV 
+IA,'Pottawattamie',KCBF 
+IA,'Poweshiek',KGGI 
+IA,'Scott',KDVN 
+IA,'Shelby',KHNR 
+IA,'Sioux',KORC 
+IA,'Story',KAMW 
+IA,'Union',KCSQ 
+IA,'Wapello',KOTM 
+IA,'Washington',KAWG 
+IA,'Webster',KFOD 
+IA,'Winneshiek',KDEH 
+IA,'Woodbury',KSUX 
+IA,'Wright',KCAV 
+ID,'Blackfoot Mountains',KU78 
+ID,'Challis/Pahsimeroi Valleys',KLLJ 
+ID,'Coeur d'Alene Area',KCOE 
+ID,'Eastern Lemhi County',KSMN 
+ID,'Eastern Magic Valley',KBYI 
+ID,'Lewiston Area',KLWS 
+ID,'Lower Snake River Plain',KPIH 
+ID,'Lower Treasure Valley',KEUL 
+ID,'Northern Panhandle',KSZT 
+ID,'Raft River Region',K77M 
+ID,'Teton Valley',KDIJ 
+ID,'Upper Snake River Plain',KIDA 
+ID,'Upper Snake River Plain',KRXE 
+ID,'Upper Treasure Valley',KBOI 
+ID,'Upper Treasure Valley',KMUO 
+ID,'West Central Mountains',KMYL 
+ID,'Western Magic Valley',KJER 
+ID,'Western Magic Valley',KTWF 
+ID,'Wood River Foothills',KSUN 
+IL,'Adams',KUIN 
+IL,'Alexander',KCIR 
+IL,'Carroll',KSFY 
+IL,'Central Cook',KMDW 
+IL,'Central Cook',KORD 
+IL,'Champaign',KCMI 
+IL,'Champaign',KTIP 
+IL,'Christian',KTAZ 
+IL,'Clay',KFOA 
+IL,'Coles',KMTO 
+IL,'Crawford',KRSV 
+IL,'De Kalb',KDKB 
+IL,'DuPage',KDPA 
+IL,'Edgar',KPRG 
+IL,'Effingham',K1H2 
+IL,'Grundy',KC09 
+IL,'Jackson',KMDH 
+IL,'Jefferson',KMVN 
+IL,'Kane',KARR 
+IL,'Kankakee',KIKK 
+IL,'Knox',KGBG 
+IL,'La Salle',KVYS 
+IL,'Lake',KUGN 
+IL,'Lawrence',KAJG 
+IL,'Lawrence',KLWV 
+IL,'Livingston',KPNT 
+IL,'Logan',KAAA 
+IL,'Macon',KDEC 
+IL,'Madison',KALN 
+IL,'Marion',KENL 
+IL,'Marion',KSLO 
+IL,'Marshall',KC75 
+IL,'Massac',KM30 
+IL,'McDonough',KMQB 
+IL,'McLean',KBMI 
+IL,'Montgomery',K3LF 
+IL,'Morgan',KIJX 
+IL,'Northern Cook',KPWK 
+IL,'Northern Will',KJOT 
+IL,'Northern Will',KLOT 
+IL,'Ogle',KRPJ 
+IL,'Peoria',KPIA 
+IL,'Pike',KPPQ 
+IL,'Randolph',KSAR 
+IL,'Richland',KOLY 
+IL,'Rock Island',KMLI 
+IL,'Saline',KHSB 
+IL,'Sangamon',KSPI 
+IL,'St. Clair',KBLV 
+IL,'St. Clair',KCPS 
+IL,'Stephenson',KFEP 
+IL,'Vermilion',KDNV 
+IL,'Wayne',KFWC 
+IL,'White',KCUL 
+IL,'Whiteside',KSQI 
+IL,'Williamson',KMWA 
+IL,'Winnebago',KRFD 
+IN,'Allen',KFWA 
+IN,'Bartholomew',KBAK 
+IN,'Boone',KTYQ 
+IN,'De Kalb',KGWB 
+IN,'Delaware',KMIE 
+IN,'Dubois',KHNB 
+IN,'Eastern St. Joseph',KSBN 
+IN,'Elkhart',KEKM 
+IN,'Elkhart',KGSH 
+IN,'Howard',KOKK 
+IN,'Lake',KGYY 
+IN,'Lake',KIGQ 
+IN,'Madison',KAID 
+IN,'Marion',KEYE 
+IN,'Marion',KIND 
+IN,'Miami',KGUS 
+IN,'Monroe',KBMG 
+IN,'Northern Kosciusko',KASW 
+IN,'Porter',KVPZ 
+IN,'Shelby',KGEZ 
+IN,'Starke',KOXI 
+IN,'Tippecanoe',KLAF 
+IN,'Vanderburgh',KEVV 
+IN,'Vigo',KHUF 
+KS,'Barber',KP28 
+KS,'Barton',KGBD 
+KS,'Cloud',KCNK 
+KS,'Cowley',KWLD 
+KS,'Douglas',KLWC 
+KS,'Ellis',KHYS 
+KS,'Finney',KGCK 
+KS,'Ford',KDDC 
+KS,'Geary',KFRI 
+KS,'Graham',KHLC 
+KS,'Harvey',KEWK 
+KS,'Johnson',KIXD 
+KS,'Johnson',KOJC 
+KS,'Labette',KPPF 
+KS,'Lyon',KEMP 
+KS,'Montgomery',KCFV 
+KS,'Neosho',KCNU 
+KS,'Pratt',KPTT 
+KS,'Reno',KHUT 
+KS,'Riley',KMHK 
+KS,'Russell',KRSL 
+KS,'Saline',KSLN 
+KS,'Sedgwick',KAAO 
+KS,'Sedgwick',KIAB 
+KS,'Sedgwick',KICT 
+KS,'Seward',KLBL 
+KS,'Shawnee',KFOE 
+KS,'Shawnee',KTOP 
+KS,'Sherman',KGLD 
+KY,'Barren',KGLW 
+KY,'Bell',K1A6 
+KY,'Boone',KCVG 
+KY,'Boyle',KDVK 
+KY,'Breathitt',KJKL 
+KY,'Christian',KHOP 
+KY,'Daviess',KOWB 
+KY,'Fayette',KLEX 
+KY,'Franklin',KFFT 
+KY,'Hardin',KFTK 
+KY,'Henderson',KEHR 
+KY,'Jefferson',KLOU 
+KY,'Jefferson',KSDF 
+KY,'Laurel',KLOZ 
+KY,'McCracken',KPAH 
+KY,'Pulaski',KSME 
+KY,'Warren',KBWG 
+KY,'Wayne',KEKQ 
+LA,'Allen',KACP 
+LA,'Beauregard',KDRI 
+LA,'Bossier',KDTN 
+LA,'Caddo',KSHV 
+LA,'Central Tangipahoa',KHDC 
+LA,'East Baton Rouge',KBTR 
+LA,'Lafayette',KLFT 
+LA,'Lincoln',KRSN 
+LA,'Madison',KTVR 
+LA,'Natchitoches',KIER 
+LA,'Ouachita',KMLU 
+LA,'Rapides',KAEX 
+LA,'Rapides',KESF 
+LA,'Sabine',KAQV 
+LA,'Southern Calcasieu',KCWF 
+LA,'Southern Calcasieu',KLCH 
+LA,'Southern Calcasieu',KUXL 
+LA,'Upper Iberia',KARA 
+LA,'Upper Vermilion',K0R3 
+LA,'Vernon',KBKB 
+LA,'Vernon',KDNK 
+LA,'Vernon',KPOE 
+MA,'Barnstable',KCQX 
+MA,'Barnstable',KFMH 
+MA,'Barnstable',KHYA 
+MA,'Barnstable',KPVC 
+MA,'Central Middlesex County',KBED 
+MA,'Dukes',KMVY 
+MA,'Eastern Essex',KBVY 
+MA,'Eastern Franklin',KORE 
+MA,'Eastern Hampden',KBAF 
+MA,'Eastern Hampden',KCEF 
+MA,'Eastern Plymouth',KGHG 
+MA,'Eastern Plymouth',KPYM 
+MA,'Nantucket',KACK 
+MA,'Northern Berkshire',KAQW 
+MA,'Northern Berkshire',KPSF 
+MA,'Northern Bristol',KTAN 
+MA,'Northern Worcester',KFIT 
+MA,'Southern Bristol',KEWB 
+MA,'Southern Worcester',KORH 
+MA,'Suffolk',KBOS 
+MA,'Western Essex',KLWM 
+MA,'Western Norfolk',KOWD 
+MD,'Anne Arundel',KBWI 
+MD,'Anne Arundel',KNAK 
+MD,'Caroline',KRJD 
+MD,'Central and Southeast Montgomery',KGAI 
+MD,'Dorchester',KCGE 
+MD,'Frederick',KFDK 
+MD,'Frederick',KRSP 
+MD,'Maryland Beaches',KOXB 
+MD,'Prince Georges',KADW 
+MD,'Prince Georges',KCGS 
+MD,'Southeast Harford',KAPG 
+MD,'Southern Baltimore',KMTN 
+MD,'St. Marys',K2W6 
+MD,'St. Marys',KNHK 
+MD,'St. Marys',KNUI 
+MD,'Talbot',KESN 
+MD,'Washington',KHGR 
+MD,'Western Garrett',K2G4 
+MD,'Wicomico',KSBY 
+ME,'Androscoggin',KLEW 
+ME,'Coastal Cumberland',KNHZ 
+ME,'Coastal Cumberland',KPWM 
+ME,'Coastal Hancock',KBHB 
+ME,'Interior York',KSFM 
+ME,'Kennebec',KAUG 
+ME,'Kennebec',KWVL 
+ME,'Knox',KRKD 
+ME,'Lincoln',KIWI 
+ME,'Northeast Aroostook',KCAR 
+ME,'Northeast Aroostook',KPQI 
+ME,'Northern Penobscot',KMLT 
+ME,'Northwest Aroostook',KFVE 
+ME,'Southern Oxford',KIZG 
+ME,'Southern Penobscot',KBGR 
+MI,'Allegan',KBIV 
+MI,'Alpena',KAPN 
+MI,'Antrim',KACB 
+MI,'Beaver Island and surrounding islands',KSJX 
+MI,'Benzie',KFKS 
+MI,'Branch',KOEB 
+MI,'Calhoun',KBTL 
+MI,'Calhoun',KRMY 
+MI,'Central Chippewa',KANJ 
+MI,'Central Chippewa',KCIU 
+MI,'Charlevoix',KCVX 
+MI,'Cheboygan',KSLH 
+MI,'Crawford',KGOV 
+MI,'Delta',KESC 
+MI,'Dickinson',KIMT 
+MI,'Eaton',KFPK 
+MI,'Emmet',KMGN 
+MI,'Emmet',KPLN 
+MI,'Genesee',KFNT 
+MI,'Gogebic',KIWD 
+MI,'Grand Traverse',KTVC 
+MI,'Gratiot',KAMN 
+MI,'Hillsdale',KJYM 
+MI,'Houghton',KCMX 
+MI,'Huron',KBAX 
+MI,'Ingham',KLAN 
+MI,'Ingham',KTEW 
+MI,'Ionia',KY70 
+MI,'Iosco',KOSC 
+MI,'Isabella',KMOP 
+MI,'Jackson',KJXN 
+MI,'Kalamazoo',KAZO 
+MI,'Kent',KGRR 
+MI,'Lenawee',KADG 
+MI,'Livingston',KOZW 
+MI,'Luce',KERY 
+MI,'Macomb',KMTC 
+MI,'Manistee',KMBL 
+MI,'Marquette',KSAW 
+MI,'Mason',KLDM 
+MI,'Mecosta',KRQB 
+MI,'Menominee',KMNM 
+MI,'Midland',K3BS 
+MI,'Midland',KIKW 
+MI,'Monroe',KDUH 
+MI,'Monroe',KTTF 
+MI,'Muskegon',KMKG 
+MI,'Newaygo',KFFX 
+MI,'Northern Berrien',KBEH 
+MI,'Oakland',KPTK 
+MI,'Oakland',KVLL 
+MI,'Otsego',KGLR 
+MI,'Presque Isle',KPZQ 
+MI,'Roscommon',KHTL 
+MI,'Saginaw',KHYX 
+MI,'Saginaw',KMBS 
+MI,'Shiawassee',KRNP 
+MI,'Southeast Chippewa',KDRM 
+MI,'Southern Schoolcraft',KISQ 
+MI,'St. Clair',KPHN 
+MI,'St. Joseph',KHAI 
+MI,'St. Joseph',KIRS 
+MI,'Tuscola',KCFS 
+MI,'Van Buren',KLWA 
+MI,'Washtenaw',KARB 
+MI,'Wayne',KDET 
+MI,'Wayne',KDTW 
+MI,'Wayne',KYIP 
+MI,'Wexford',KCAD 
+MN,'Anoka',KANE 
+MN,'Big Stone',KVVV 
+MN,'Blue Earth',KMKT 
+MN,'Brown',KULM 
+MN,'Carlton/South St. Louis',KCOQ 
+MN,'Carlton/South St. Louis',KDLH 
+MN,'Carlton/South St. Louis',KMZH 
+MN,'Central St. Louis',KCQM 
+MN,'Central St. Louis',KELO 
+MN,'Central St. Louis',KEVM 
+MN,'Central St. Louis',KHIB 
+MN,'Chippewa',KMVE 
+MN,'Chisago',KROS 
+MN,'Clay',KJKJ 
+MN,'Cottonwood',KMWM 
+MN,'Crow Wing',KBRD 
+MN,'Dakota',KLVN 
+MN,'Dakota',KSGS 
+MN,'Dodge',KTOB 
+MN,'Douglas',KAXN 
+MN,'East Otter Tail',KADC 
+MN,'East Polk',KFSE 
+MN,'Fillmore',KFKA 
+MN,'Freeborn',KAEL 
+MN,'Goodhue',KSYN 
+MN,'Grant',KY63 
+MN,'Hennepin',KFCM 
+MN,'Hennepin',KMIC 
+MN,'Hennepin',KMSP 
+MN,'Houston',KLSE 
+MN,'Hubbard',KPKD 
+MN,'Isanti',KCBG 
+MN,'Jackson',KMJQ 
+MN,'Kanabec',KJMR 
+MN,'Kandiyohi',KBDH 
+MN,'Kittson',KHCO 
+MN,'Koochiching',KINL 
+MN,'Lac Qui Parle',KDXX 
+MN,'Lake Of The Woods',KBDE 
+MN,'Lake Of The Woods',KFGN 
+MN,'Lyon',KMML 
+MN,'Lyon',KTKC 
+MN,'Martin',KFRM 
+MN,'McLeod',KGYL 
+MN,'McLeod',KHCD 
+MN,'Meeker',KLJF 
+MN,'Mille Lacs',KPNM 
+MN,'Morrison',KLXL 
+MN,'Mower',KAUM 
+MN,'Murray',KDVP 
+MN,'Nobles',KOTG 
+MN,'North Beltrami',KVWU 
+MN,'North Cass',KXVG 
+MN,'North Itasca',KFOZ 
+MN,'North St. Louis',KCDD 
+MN,'North St. Louis',KORB 
+MN,'Olmsted',KRST 
+MN,'Pennington',KTVF 
+MN,'Pine',K04W 
+MN,'Pipestone',KPQN 
+MN,'Pope',KGHW 
+MN,'Ramsey',KSTP 
+MN,'Redwood',KRWF 
+MN,'Renville',KOVL 
+MN,'Rice',KFBL 
+MN,'Rock',KLYV 
+MN,'Roseau',KROX 
+MN,'Roseau',KRRT 
+MN,'Sherburne',KSTC 
+MN,'South Aitkin',KAIT 
+MN,'South Aitkin',KHZX 
+MN,'South Beltrami',KBJI 
+MN,'South Cass',KPWC 
+MN,'South Itasca',KGPZ 
+MN,'Southern Cook/North Shore',KCKC 
+MN,'Southern Lake/North Shore',KBFW 
+MN,'Southern Lake/North Shore',KTWM 
+MN,'Stearns',KD39 
+MN,'Stearns',KPEX 
+MN,'Steele',KOWA 
+MN,'Stevens',KMOX 
+MN,'Swift',KAQP 
+MN,'Swift',KBBB 
+MN,'Todd',K14Y 
+MN,'Traverse',KETH 
+MN,'Wadena',KSAZ 
+MN,'Waseca',KACQ 
+MN,'Washington',K21D 
+MN,'Watonwan',KJYG 
+MN,'West Becker',KDTL 
+MN,'West Otter Tail',KFFM 
+MN,'West Polk',KCKN 
+MN,'Winona',KONA 
+MN,'Wright',KCFE 
+MN,'Wright',KMGG 
+MN,'Yellow Medicine',KCNB 
+MN,'Yellow Medicine',KGDB 
+MO,'Adair',KIRK 
+MO,'Barry',KHFJ 
+MO,'Boone',KCOU 
+MO,'Buchanan',KSTJ 
+MO,'Butler',KPOF 
+MO,'Callaway',KJEF 
+MO,'Clay',KMKC 
+MO,'Greene',KSGF 
+MO,'Henry',KGLY 
+MO,'Howell',KUNO 
+MO,'Jackson',KLXT 
+MO,'Jasper',KJLN 
+MO,'Johnson',KRCM 
+MO,'Johnson',KSZL 
+MO,'Maries',KVIH 
+MO,'Miller',KAIZ 
+MO,'Pettis',KDMO 
+MO,'Platte',KMCI 
+MO,'Pulaski',KTBN 
+MO,'Scott',KCGI 
+MO,'St. Charles',KSET 
+MO,'St. Francois',KFAM 
+MO,'St. Louis',KSTL 
+MO,'St. Louis',KSUS 
+MO,'Taney',KBBG 
+MS,'Adams',KHEZ 
+MS,'Carroll',KGWO 
+MS,'DeSoto',KOLV 
+MS,'Forrest',KHBG 
+MS,'Hinds',KHKS 
+MS,'Jones',KPIB 
+MS,'Lafayette',KUOX 
+MS,'Lauderdale',KMEI 
+MS,'Lauderdale',KNMM 
+MS,'Lee',KTUP 
+MS,'Lowndes',KCBM 
+MS,'Lowndes',KGTR 
+MS,'Pike',KMCB 
+MS,'Rankin',KJAN 
+MS,'Southern Hancock',KHSA 
+MS,'Tunica',KUTA 
+MS,'Washington',KGLH 
+MT,'Beaverhead and Western Madison below 6000ft',KDLN 
+MT,'Butte/Blackfoot Region',K3DU 
+MT,'Butte/Blackfoot Region',KBTM 
+MT,'Cascade County below 5000ft',KGFA 
+MT,'Cascade County below 5000ft',KGTF 
+MT,'Central and Southern Valley',KGGW 
+MT,'Custer',KMLS 
+MT,'Dawson',KGDV 
+MT,'Eastern Glacier, Western Toole, and Central Pondera',KCTB 
+MT,'Fallon',KBHK 
+MT,'Fergus County below 4500ft',KLWT 
+MT,'Flathead/Mission Valleys',KGPI 
+MT,'Gallatin Valley',KBZN 
+MT,'Gallatin and Madison County Mountains and Centennial Mountains',KWYS 
+MT,'Helena Valley',KHLN 
+MT,'Hill County',KHVR 
+MT,'Livingston Area',KLVM 
+MT,'Lower Clark Fork Region',KMLP 
+MT,'Missoula/Bitterroot Valleys',KMSO 
+MT,'Richland',KSDY 
+MT,'Southwestern Yellowstone',KBIL 
+MT,'Western Roosevelt',KOLF 
+NC,'Alamance',KBUY 
+NC,'Anson',KAFP 
+NC,'Ashe',KGEV 
+NC,'Beaufort',KOCW 
+NC,'Bladen',KEYF 
+NC,'Cabarrus',KJQF 
+NC,'Catawba',KHKY 
+NC,'Cherokee',KRHP 
+NC,'Chowan',KEDE 
+NC,'Cleveland',KEHO 
+NC,'Coastal Brunswick',KSUT 
+NC,'Columbus',KCPC 
+NC,'Cumberland',KFAY 
+NC,'Cumberland',KFBG 
+NC,'Cumberland',KPOB 
+NC,'Davidson',KEXX 
+NC,'Duplin',KDPL 
+NC,'East Carteret',KMRH 
+NC,'Forsyth',KINT 
+NC,'Franklin',KLHZ 
+NC,'Gaston',KAKH 
+NC,'Granville',KHNZ 
+NC,'Greater Caldwell',KMRN 
+NC,'Greater Rutherford',KFQD 
+NC,'Guilford',KGSO 
+NC,'Halifax',KRZZ 
+NC,'Henderson',KAVL 
+NC,'Hertford',KASJ 
+NC,'Hertford',KECG 
+NC,'Inland New Hanover',KILM 
+NC,'Inland Onslow',KOAJ 
+NC,'Iredell',KSVH 
+NC,'Johnston',KJNX 
+NC,'Lee',KTTA 
+NC,'Lenoir',KISO 
+NC,'Lincoln',KIPJ 
+NC,'Macon',K1A5 
+NC,'Mecklenburg',KCLT 
+NC,'Moore',KSOP 
+NC,'Nash',KRWI 
+NC,'Northern Outer Banks',KFFA 
+NC,'Orange',KIGX 
+NC,'Person',KTDF 
+NC,'Pitt',KPGV 
+NC,'Randolph',KHBI 
+NC,'Richmond',KHFF 
+NC,'Richmond',KRCZ 
+NC,'Robeson',KLBT 
+NC,'Rockingham',KSIF 
+NC,'Rowan',KRUQ 
+NC,'Sampson',KCTZ 
+NC,'Scotland',KMEB 
+NC,'Southern Craven',KEWN 
+NC,'Southern Craven',KNKT 
+NC,'Stanly',KVUJ 
+NC,'Surry',KMWK 
+NC,'Union',KEQY 
+NC,'Wake',KRDU 
+NC,'Watauga',KTNB 
+NC,'Wayne',KGSB 
+NC,'Wayne',KGWW 
+NC,'West Carteret',KNJM 
+NC,'Western Currituck',KONX 
+NC,'Wilkes',KUKF 
+ND,'Adams',KHEI 
+ND,'Bowman',KBPP 
+ND,'Burleigh',KBIS 
+ND,'Cass',KFAR 
+ND,'Grand Forks',KGFK 
+ND,'Grand Forks',KRDR 
+ND,'Ramsey',KDVL 
+ND,'Richland',KBWP 
+ND,'Stark',KDIK 
+ND,'Stutsman',KJMS 
+ND,'Ward',KMIB 
+ND,'Ward',KMOT 
+ND,'Williams',KISN 
+NE,'Adams',KHSI 
+NE,'Boone',KBVN 
+NE,'Box Butte',KAIA 
+NE,'Brown',KANW 
+NE,'Buffalo',KEAR 
+NE,'Burt',KTQE 
+NE,'Cass',KPMV 
+NE,'Chase',KIML 
+NE,'Cheyenne',KSNY 
+NE,'Custer',KBBW 
+NE,'Dawes',KCDR 
+NE,'Dawson',KLXN 
+NE,'Dodge',KFET 
+NE,'Douglas',KMLE 
+NE,'Douglas',KOMA 
+NE,'Eastern Cherry',KVTN 
+NE,'Gage',KBIE 
+NE,'Hall',KGRI 
+NE,'Hamilton',KAUH 
+NE,'Holt',KONL 
+NE,'Keith',KOGA 
+NE,'Kimball',KIBM 
+NE,'Lancaster',KLNK 
+NE,'Lincoln',KLBF 
+NE,'Madison',KOFK 
+NE,'Otoe',KAFK 
+NE,'Phelps',KHDE 
+NE,'Platte',KOLU 
+NE,'Red Willow',KMCK 
+NE,'Richardson',KFNB 
+NE,'Scotts Bluff',KBFF 
+NE,'Thayer',KHJH 
+NE,'Thomas',KTIF 
+NE,'Valley',KODX 
+NE,'Washington',KBTA 
+NE,'Wayne',KLCG 
+NE,'York',KJYR 
+NH,'Belknap',KLCI 
+NH,'Cheshire',KAFN 
+NH,'Cheshire',KEEN 
+NH,'Coastal Rockingham',KPSM 
+NH,'Eastern Hillsborough',KASH 
+NH,'Eastern Hillsborough',KMHT 
+NH,'Merrimack',KCON 
+NH,'Southern Coos',KBML 
+NH,'Southern Coos',KHIE 
+NH,'Southern Coos',KMWN 
+NH,'Southern Grafton',K1P1 
+NH,'Southern Grafton',KLEB 
+NH,'Strafford',KDAW 
+NJ,'Atlantic',KACY 
+NJ,'Cape May',KWWD 
+NJ,'Cumberland',KMIV 
+NJ,'Eastern Bergen',KTEB 
+NJ,'Eastern Essex',KEWR 
+NJ,'Eastern Union',KLDJ 
+NJ,'Mercer',KTTN 
+NJ,'Morris',KMMU 
+NJ,'Northwestern Burlington',KVAY 
+NJ,'Northwestern Burlington',KWRI 
+NJ,'Ocean',KMJX 
+NJ,'Ocean',KNEL 
+NJ,'Somerset',KSMQ 
+NJ,'Sussex',KFWN 
+NJ,'Western Essex',KCDW 
+NJ,'Western Monmouth',KBLM 
+NM,'Central Highlands',KCQC 
+NM,'Central Lea County',KHBB 
+NM,'Central Lea County',KHOB 
+NM,'Chaves County Plains',KROW 
+NM,'Curry County',KCVN 
+NM,'Curry County',KCVS 
+NM,'East Central Tularosa Basin/Alamogordo',KALM 
+NM,'East Central Tularosa Basin/Alamogordo',KHMN 
+NM,'East Slopes Sangre de Cristo Mountains',KAXX 
+NM,'Eddy County Plains',KATS 
+NM,'Eddy County Plains',KCNM 
+NM,'Estancia Valley',K4MY 
+NM,'Far Northeast Highlands',KRTN 
+NM,'Jemez Mountains',KLAM 
+NM,'Lower Rio Grande Valley',KONM 
+NM,'Middle Rio Grande Valley/Albuquerque Metro Area',KABQ 
+NM,'Middle Rio Grande Valley/Albuquerque Metro Area',KAEG 
+NM,'Northeast Highlands',KLVS 
+NM,'Northwest Highlands',K4SL 
+NM,'Northwest Plateau',KFMN 
+NM,'Quay County',KTCC 
+NM,'Santa Fe Metro Area',KPPA 
+NM,'Santa Fe Metro Area',KSAF 
+NM,'Sierra County Lakes',KTCS 
+NM,'South Central Highlands',K4CR 
+NM,'South Central Mountains',KSRR 
+NM,'Southern Dona Ana County/Mesilla Valley',KLRU 
+NM,'Southern Gila Foothills/Mimbres Valley',KSVC 
+NM,'Southwest Desert/Mimbres Basin',KDMN 
+NM,'Tusas Mountains Including Chama',KE33 
+NM,'Union County',KCAO 
+NM,'Upper Rio Grande Valley',KSKX 
+NM,'West Central Plateau',KGUP 
+NV,'Esmeralda and Central Nye County',KBJN 
+NV,'Greater Reno-Carson City-Minden Area',KRNO 
+NV,'Humboldt County',KWMC 
+NV,'Las Vegas Valley',KHND 
+NV,'Las Vegas Valley',KLAS 
+NV,'Las Vegas Valley',KLSV 
+NV,'Las Vegas Valley',KVGT 
+NV,'Northwestern Nye County',KTPH 
+NV,'Southwest Elko County',KEKO 
+NV,'Western Clark and Southern Nye County',KDRA 
+NV,'Western Clark and Southern Nye County',KINS 
+NV,'Western Clark and Southern Nye County',KL63 
+NV,'Western Nevada Basin and Range including Pyramid Lake',KLOL 
+NV,'Western Nevada Basin and Range including Pyramid Lake',KNFL 
+NV,'White Pine County',KELY 
+NY,'Allegany',KELZ 
+NY,'Broome',KBGM 
+NY,'Chautauqua',KDKK 
+NY,'Chautauqua',KJHW 
+NY,'Chemung',KELM 
+NY,'Eastern Albany',KALB 
+NY,'Eastern Clinton',KPBG 
+NY,'Eastern Schenectady',KSCH 
+NY,'Jefferson',KART 
+NY,'Jefferson',KGTB 
+NY,'Livingston',KDSV 
+NY,'Monroe',KROC 
+NY,'New York (Manhattan)',KNYC 
+NY,'Niagara',KIAG 
+NY,'Northern Erie',KBUF 
+NY,'Northern Queens',KLGA 
+NY,'Northern St. Lawrence',KMSS 
+NY,'Onondaga',KSYR 
+NY,'Orange',KMGJ 
+NY,'Orange',KSWF 
+NY,'Oswego',KFZY 
+NY,'Southeast Suffolk',KFOK 
+NY,'Southeast Suffolk',KHTO 
+NY,'Southeast Suffolk',KHWV 
+NY,'Southeast Suffolk',KMTP 
+NY,'Southeast Warren',KGFL 
+NY,'Southern Franklin',KSLK 
+NY,'Southern Oneida',KRME 
+NY,'Southern Queens',KJFK 
+NY,'Southwest Suffolk',KFRG 
+NY,'Southwest Suffolk',KISP 
+NY,'Sullivan',KMSV 
+NY,'Tompkins',KITH 
+NY,'Western Dutchess',KPOU 
+NY,'Yates',KPEO 
+OH,'Allen',KAOH 
+OH,'Ashtabula Inland',KHZY 
+OH,'Athens',KUNI 
+OH,'Butler',KHAO 
+OH,'Butler',KMWO 
+OH,'Clark',KSGH 
+OH,'Clinton',KILN 
+OH,'Cuyahoga',KBKL 
+OH,'Cuyahoga',KCGF 
+OH,'Cuyahoga',KCLE 
+OH,'Defiance',KDFI 
+OH,'Fairfield',KLHQ 
+OH,'Franklin',KCMH 
+OH,'Franklin',KLCK 
+OH,'Franklin',KOSU 
+OH,'Franklin',KTZR 
+OH,'Greene',KFFO 
+OH,'Hamilton',KLUK 
+OH,'Hancock',KFDY 
+OH,'Knox',K4I3 
+OH,'Licking',KVTA 
+OH,'Lorain',KLPR 
+OH,'Lucas',KTOL 
+OH,'Marion',KMNN 
+OH,'Montgomery',KDAY 
+OH,'Montgomery',KMGY 
+OH,'Muskingum',KZZV 
+OH,'Portage',K29G 
+OH,'Richland',KMFD 
+OH,'Summit',KAKR 
+OH,'Summit',KCAK 
+OH,'Trumbull',KYNG 
+OH,'Tuscarawas',KPHD 
+OH,'Union',KMRT 
+OH,'Wayne',KBJJ 
+OH,'Wood',KTDZ 
+OK,'Atoka',KAQR 
+OK,'Atoka',KOKM 
+OK,'Blaine',KJWG 
+OK,'Bryan',KDUA 
+OK,'Canadian',KRCE 
+OK,'Canadian',KRQO 
+OK,'Carter',K1F0 
+OK,'Carter',KADM 
+OK,'Cherokee',KTQH 
+OK,'Cleveland',KOUN 
+OK,'Comanche',KFSI 
+OK,'Comanche',KLAW 
+OK,'Custer',KCLK 
+OK,'Custer',KOJA 
+OK,'Delaware',KGMJ 
+OK,'Ellis',KGAG 
+OK,'Garfield',KEND 
+OK,'Garfield',KWDG 
+OK,'Garvin',KPVJ 
+OK,'Grady',KCHK 
+OK,'Haskell',KGZL 
+OK,'Jackson',KAXS 
+OK,'Jackson',KLTS 
+OK,'Kay',KBKN 
+OK,'Kay',KPNC 
+OK,'Kiowa',KHBR 
+OK,'Le Flore',KRKR 
+OK,'Lincoln',KCQB 
+OK,'Logan',KGOK 
+OK,'McCurtain',K4O4 
+OK,'Muskogee',KMKO 
+OK,'Oklahoma',KOKC 
+OK,'Oklahoma',KPWA 
+OK,'Oklahoma',KTIK 
+OK,'Osage',KBVO 
+OK,'Payne',KCUH 
+OK,'Payne',KSWO 
+OK,'Pittsburg',KMLC 
+OK,'Pontotoc',KADH 
+OK,'Pottawatomie',KSNL 
+OK,'Rogers',KGCM 
+OK,'Seminole',KSRE 
+OK,'Sequoyah',KJSV 
+OK,'Stephens',KDUC 
+OK,'Texas',KGUY 
+OK,'Tillman',KFDR 
+OK,'Tulsa',KRVS 
+OK,'Tulsa',KTUL 
+OK,'Washita',KCSM 
+OK,'Woods',KAVK 
+OK,'Woodward',KWWR 
+OR,'Baker County',KBKE 
+OR,'Benton County Lowlands',KCVO 
+OR,'Central Coast of Oregon',KONP 
+OR,'Central Douglas County',KRBG 
+OR,'Central Oregon',KBDN 
+OR,'Central Oregon',KRDM 
+OR,'Central and Eastern Lake County',KLKV 
+OR,'Clatsop County Coast',KAST 
+OR,'East Central Willamette Valley',KSLE 
+OR,'East Central Willamette Valley',KUAO 
+OR,'East Portland Metro',KTTD 
+OR,'Eastern Curry County and Josephine County',KSXT 
+OR,'Foothills of the Northern Blue Mountains of Oregon',KPDT 
+OR,'Grande Ronde Valley',KLGD 
+OR,'Harney County',KBNO 
+OR,'Inner Portland Metro',KPDX 
+OR,'Jackson County',KMFR 
+OR,'Klamath Basin',KLMT 
+OR,'Lane County Lowlands',KEUG 
+OR,'Lower Columbia Basin of Oregon',KHRI 
+OR,'Lower Columbia River',KSPB 
+OR,'Northern Blue Mountains of Oregon',KMEH 
+OR,'Ochoco-John Day Highlands',KGCD 
+OR,'Oregon Lower Treasure Valley',KONO 
+OR,'South Central Oregon Coast',KOTH 
+OR,'Tillamook County Coast',KTMK 
+OR,'Tualatin Valley',KHIO 
+OR,'West Central Willamette Valley',KMMV 
+OR,'West Columbia River Gorge I-84 Corridor',KCZK 
+PA,'Adams',KRYT 
+PA,'Allegheny',KAGC 
+PA,'Allegheny',KPIT 
+PA,'Beaver',KBVI 
+PA,'Berks',KRDG 
+PA,'Blair',KAOO 
+PA,'Butler',KBTP 
+PA,'Cambria',KJST 
+PA,'Clearfield',KFIG 
+PA,'Crawford',KGKJ 
+PA,'Dauphin',KMDT 
+PA,'Eastern Montgomery',KLOM 
+PA,'Eastern Montgomery',KNXX 
+PA,'Indiana',KIDI 
+PA,'Jefferson',KDUJ 
+PA,'Lancaster',KLNS 
+PA,'Lawrence',KUCP 
+PA,'Lebanon',KMUI 
+PA,'Lehigh',KABE 
+PA,'Lehigh',KXLL 
+PA,'Lower Bucks',KDYL 
+PA,'Luzerne',KAVP 
+PA,'McKean',KBFD 
+PA,'Monroe',KMPO 
+PA,'Northern Erie',KERI 
+PA,'Philadelphia',KPHL 
+PA,'Philadelphia',KPNE 
+PA,'Snyder',KSEG 
+PA,'Southern Centre',KUNV 
+PA,'Southern Lycoming',KIPT 
+PA,'Upper Bucks',KUKT 
+PA,'Venango',KFKL 
+PA,'Washington',KAFJ 
+PA,'Western Chester',KMQS 
+PA,'Western Montgomery',KPTW 
+PA,'Westmoreland',KLBE 
+PA,'York',KCXY 
+PA,'York',KTHV 
+RI,'Block Island',KBID 
+RI,'Eastern Kent',KPVD 
+RI,'Newport',KUUU 
+RI,'Northwest Providence',KSFZ 
+RI,'Washington',KWST 
+SC,'Aiken',KAIK 
+SC,'Anderson',KAND 
+SC,'Central Greenville',KGMU 
+SC,'Central Orangeburg',KOGB 
+SC,'Chester',KDCM 
+SC,'Chesterfield',KCQW 
+SC,'Coastal Horry',KCRE 
+SC,'Darlington',KUDG 
+SC,'Florence',KFLO 
+SC,'Greater Oconee',KCEU 
+SC,'Greenwood',KGRD 
+SC,'Inland Berkeley',KMKS 
+SC,'Kershaw',KCDN 
+SC,'Laurens',KLUX 
+SC,'Lexington',KCAE 
+SC,'Marion',KMAO 
+SC,'Newberry',KEOE 
+SC,'Northern Spartanburg',KGSP 
+SC,'Richland',KCUB 
+SC,'Richland',KMMT 
+SC,'Southern Greenville',KGYH 
+SC,'Southern Lancaster',KLKR 
+SC,'Southern Spartanburg',KSPA 
+SC,'Sumter',KSMS 
+SC,'Sumter',KSSC 
+SC,'York',KUZA 
+SD,'Beadle',KHON 
+SD,'Brookings',KBKX 
+SD,'Brown',KABR 
+SD,'Central Black Hills',KCUT 
+SD,'Codington',KATY 
+SD,'Davison',KMHE 
+SD,'Haakon',KPHP 
+SD,'Hughes',KPIR 
+SD,'Lake',KMDS 
+SD,'Minnehaha',KFSD 
+SD,'Northern Foothills',KSPF 
+SD,'Pennington Co Plains',KRAP 
+SD,'Southern Meade Co Plains',KRCA 
+SD,'Southern Oglala Lakota',KIEN 
+SD,'Tripp',KICR 
+SD,'Walworth',KMBG 
+SD,'Yankton',KYKN 
+STATE_NOT_FOUND,'ZONE_NOT_FOUND',K7R4 
+TN,'Anderson',KOQT 
+TN,'Cumberland',KCSV 
+TN,'Davidson',KBNA 
+TN,'Dyer',KDYR 
+TN,'Hamilton',KCHA 
+TN,'Madison',KMKL 
+TN,'Montgomery',KCKV 
+TN,'NW Blount',KTYS 
+TN,'Northwest Carter',K0A9 
+TN,'Rutherford',KMQY 
+TN,'Shelby',KMEM 
+TN,'Shelby',KNQA 
+TN,'Sullivan',KTRI 
+TX,'Anderson',KPSN 
+TX,'Bee',KBEA 
+TX,'Bell',KGRK 
+TX,'Bell',KHLR 
+TX,'Bell',KILE 
+TX,'Bell',KTPL 
+TX,'Brazos',KCLL 
+TX,'Brown',KBWD 
+TX,'Burnet',KBMQ 
+TX,'Childress',KCDS 
+TX,'Coastal Matagorda',KPSX 
+TX,'Collin',KTKI 
+TX,'Comanche',KMKN 
+TX,'Cooke',KGLE 
+TX,'Coryell',KGOP 
+TX,'Crockett',KOZA 
+TX,'Dallas',KADS 
+TX,'Dallas',KDAL 
+TX,'Dallas',KDFW 
+TX,'Dallas',KHQZ 
+TX,'Dallas',KLNC 
+TX,'Dallas',KRBD 
+TX,'Davis Mountains Foothills',KE38 
+TX,'Davis Mountains',KMRF 
+TX,'Deaf Smith',KHRX 
+TX,'Denton',KDTO 
+TX,'Eastern/Central El Paso County',KELP 
+TX,'Ector',KODO 
+TX,'Edwards',KECU 
+TX,'Ellis',KJWY 
+TX,'Erath',KSEP 
+TX,'Fayette',K3T5 
+TX,'Fort Bend',KAXH 
+TX,'Fort Bend',KSGR 
+TX,'Gaines',KGNC 
+TX,'Galveston Island',KGLS 
+TX,'Gillespie',KT82 
+TX,'Grayson',KGYI 
+TX,'Guadalupe and Delaware Mountains',KGDP 
+TX,'Hale',KPVW 
+TX,'Hamilton',KMNZ 
+TX,'Hartley',KDHT 
+TX,'Hemphill',KHHF 
+TX,'Hill',KINJ 
+TX,'Hood',KGDJ 
+TX,'Hopkins',KSLR 
+TX,'Houston',KDKR 
+TX,'Howard',KBPG 
+TX,'Hunt',KGVT 
+TX,'Hutchinson',KBGD 
+TX,'Inland Brazoria',KLBX 
+TX,'Inland Brazoria',KLVJ 
+TX,'Inland Calhoun',KPKV 
+TX,'Inland Harris',KDWH 
+TX,'Inland Harris',KHOU 
+TX,'Inland Harris',KIAH 
+TX,'Inland Harris',KMCJ 
+TX,'Inland Matagorda',KBYY 
+TX,'Johnson',KCPT 
+TX,'Kaufman',KTRL 
+TX,'Kerr',KERV 
+TX,'Kimble',KJCT 
+TX,'Lamar',KPRX 
+TX,'Lampasas',KLZZ 
+TX,'Llano',KAQO 
+TX,'Lower Jefferson',KBPT 
+TX,'Lubbock',KLBB 
+TX,'McCulloch',KBBD 
+TX,'McLennan',KACT 
+TX,'McLennan',KCNW 
+TX,'McLennan',KPWG 
+TX,'Midland',KMAF 
+TX,'Midland',KMDD 
+TX,'Montague',K0F2 
+TX,'Montgomery',KCXO 
+TX,'Moore',KDUX 
+TX,'Nacogdoches',KOCH 
+TX,'Navarro',KCRS 
+TX,'Nolan',KSWW 
+TX,'Northern Jasper',KJAS 
+TX,'Northern Liberty',K6R3 
+TX,'Ochiltree',KPYX 
+TX,'Parker',KMWL 
+TX,'Pecos',KFST 
+TX,'Potter',KAMA 
+TX,'Red River',KLBR 
+TX,'Reeves County Plains',KPEQ 
+TX,'Roberts',KBPC 
+TX,'Robertson',KLHB 
+TX,'Rusk',KRFI 
+TX,'Scurry',KSNK 
+TX,'Smith',KTYR 
+TX,'Southern Orange',KORG 
+TX,'Sutton',KSOA 
+TX,'Tarrant',KAFW 
+TX,'Tarrant',KFTW 
+TX,'Tarrant',KFWS 
+TX,'Tarrant',KGKY 
+TX,'Tarrant',KGPM 
+TX,'Tarrant',KNFW 
+TX,'Taylor',KABI 
+TX,'Taylor',KDYS 
+TX,'Tom Green',KSJT 
+TX,'Upshur',KJXI 
+TX,'Victoria',KVCT 
+TX,'Walker',KUTS 
+TX,'Wharton',KARM 
+TX,'Wichita',KCWC 
+TX,'Wichita',KSPS 
+TX,'Wilbarger',KF05 
+TX,'Winkler',KINK 
+TX,'Wise',KLUD 
+TX,'Wise',KXBP 
+TX,'Wood',KJDD 
+TX,'Young',KRPH 
+UT,'Arches/Grand Flat',KCNY 
+UT,'Bryce Canyon Country',KBCE 
+UT,'Cache Valley/Utah Portion',KLGU 
+UT,'Castle Country',KPUC 
+UT,'Eastern Uinta Basin',KVEL 
+UT,'Great Salt Lake Desert and Mountains',KDPG 
+UT,'Great Salt Lake Desert and Mountains',KENV 
+UT,'Great Salt Lake Desert and Mountains',KQCA 
+UT,'Lower Washington County',KSGU 
+UT,'Northern Wasatch Front',KHIF 
+UT,'Northern Wasatch Front',KOGD 
+UT,'Salt Lake Valley',KSLC 
+UT,'Southeast Utah',K4BL 
+UT,'Southwest Utah',KCDC 
+UT,'Southwest Utah',KMLF 
+UT,'Utah Valley',KPVU 
+UT,'Western Canyonlands',K4HV 
+UT,'Western Millard and Juab Counties',KU24 
+UT,'Western Uinta Basin',KU28 
+VA,'Accomack',KMFV 
+VA,'Accomack',KWAL 
+VA,'Albemarle',KCHO 
+VA,'Arlington/Falls Church/Alexandria',KDCA 
+VA,'Augusta',KSHD 
+VA,'Bath',KHSP 
+VA,'Campbell',KLYH 
+VA,'Carroll',KHLX 
+VA,'Central and Southeast Prince William/Manassas/Manassas Park',KHEF 
+VA,'Chesapeake',KCPK 
+VA,'Chesapeake',KNFE 
+VA,'Culpeper',KCJR 
+VA,'Cumberland',KFVX 
+VA,'Dinwiddie',KPTB 
+VA,'Eastern Essex',KXSA 
+VA,'Eastern Henrico',KRIC 
+VA,'Eastern King and Queen',KFYJ 
+VA,'Eastern Loudoun',KJYO 
+VA,'Eastern Louisa',KLKU 
+VA,'Fairfax',KDAA 
+VA,'Fairfax',KIAD 
+VA,'Frederick',KOKV 
+VA,'Henry',KMTV 
+VA,'Isle of Wight',KFKN 
+VA,'James City',KJGG 
+VA,'Mecklenburg',KAVC 
+VA,'Montgomery',KBCB 
+VA,'Newport News',KFAF 
+VA,'Newport News',KPHF 
+VA,'Norfolk/Portsmouth',KNGU 
+VA,'Norfolk/Portsmouth',KORF 
+VA,'Orange',KOMH 
+VA,'Pittsylvania',KDAN 
+VA,'Pulaski',KPSK 
+VA,'Roanoke',KROA 
+VA,'Smyth',KMKJ 
+VA,'Southampton',KEMV 
+VA,'Southern Fauquier',KHWY 
+VA,'Spotsylvania',KEZF 
+VA,'Stafford',KRMN 
+VA,'Suffolk',KSFQ 
+VA,'Sussex',KAKQ 
+VA,'Tazewell',KJFZ 
+VA,'Virginia Beach',KNTU 
+VA,'Washington',KVJI 
+VA,'Western Hanover',KOFP 
+VA,'Wise',KLNP 
+VT,'Bennington',KDDH 
+VT,'Caledonia',KCDA 
+VT,'Eastern Windsor',KVSF 
+VT,'Lamoille',KMVL 
+VT,'Orleans',KEFK 
+VT,'Washington',KMPV 
+VT,'Western Chittenden',KBTV 
+VT,'Western Franklin',KFSO 
+VT,'Western Rutland',KRUT 
+WA,'City of Seattle',KBFI 
+WA,'Cowlitz County Lowlands',KKLS 
+WA,'Eastern Columbia River Gorge of Washington',KDLS 
+WA,'Eastern Kitsap County',KPWT 
+WA,'Eastern Strait of Juan de Fuca',KCLM 
+WA,'Foothills of the Blue Mountains of Washington',KALW 
+WA,'Inner Vancouver Metro',KVUO 
+WA,'Island County',KNUW 
+WA,'Kittitas Valley',KELN 
+WA,'Lower Columbia Basin of Washington',KHMS 
+WA,'Lower Columbia Basin of Washington',KPSC 
+WA,'Lowlands of Lewis and Southern Thurston Counties',KCLS 
+WA,'Lowlands of Pierce and Southern King Counties',KGRF 
+WA,'Lowlands of Pierce and Southern King Counties',KRNT 
+WA,'Lowlands of Pierce and Southern King Counties',KSEA 
+WA,'Lowlands of Pierce and Southern King Counties',KTCM 
+WA,'Lowlands of Pierce and Southern King Counties',KTIW 
+WA,'Lowlands of Western Skagit and Northwestern Snohomish Counties',KAWO 
+WA,'Lowlands of Western Skagit and Northwestern Snohomish Counties',KBVS 
+WA,'Lowlands of Western Whatcom County',KBLI 
+WA,'Moses Lake Area',KEPH 
+WA,'Moses Lake Area',KMWH 
+WA,'Northeast Mountains',KDEW 
+WA,'Northern Washington Coast',KUIL 
+WA,'Okanogan Valley',KOMK 
+WA,'Olympia and Southern Puget Sound',KOLM 
+WA,'Olympia and Southern Puget Sound',KSHN 
+WA,'San Juan County',KFHR 
+WA,'San Juan County',KORS 
+WA,'Shoreline / Lynnwood / South Everett Area',KPAE 
+WA,'Spokane Area',KGEG 
+WA,'Spokane Area',KSFF 
+WA,'Spokane Area',KSKA 
+WA,'Upper Slopes of the Eastern Washington Cascades Crest',KSMP 
+WA,'Washington Palouse',KPUW 
+WA,'Wenatchee Area',KEAT 
+WA,'Yakima Valley',KYKM 
+WI,'Ashland',KASX 
+WI,'Barron',KRPD 
+WI,'Brown',KGRB 
+WI,'Burnett',KRZN 
+WI,'Chippewa',KEAU 
+WI,'Crawford',KPDC 
+WI,'Dane',KC29 
+WI,'Dane',KMSN 
+WI,'Dodge',KUNU 
+WI,'Door',KSUE 
+WI,'Douglas',KSUW 
+WI,'Dunn',KLUM 
+WI,'Fond Du Lac',KFLD 
+WI,'Grant',KOVS 
+WI,'Grant',KPVB 
+WI,'Green',KEFT 
+WI,'Iowa',KMRJ 
+WI,'Jefferson',KRYV 
+WI,'Juneau',KVOK 
+WI,'Kenosha',KENW 
+WI,'Langlade',KAIG 
+WI,'Lincoln',KRRL 
+WI,'Lincoln',KTKV 
+WI,'Manitowoc',KMTW 
+WI,'Marathon',KAUW 
+WI,'Marathon',KCWA 
+WI,'Milwaukee',KMKE 
+WI,'Milwaukee',KMWC 
+WI,'Monroe',KCMY 
+WI,'Oneida',KRHI 
+WI,'Outagamie',KATW 
+WI,'Pierce',KRGK 
+WI,'Polk',KOEO 
+WI,'Portage',KSTE 
+WI,'Price',KPBH 
+WI,'Racine',KBUU 
+WI,'Racine',KRAC 
+WI,'Rock',KJVL 
+WI,'Rusk',KRCX 
+WI,'Sauk',KDLL 
+WI,'Sauk',KLNR 
+WI,'Sawyer',KHYR 
+WI,'Shawano',KEZS 
+WI,'Sheboygan',KSBM 
+WI,'St. Croix',KRNH 
+WI,'Taylor',KMDZ 
+WI,'Vernon',KY51 
+WI,'Vilas',KARV 
+WI,'Vilas',KEGV 
+WI,'Vilas',KLNL 
+WI,'Washington',KETB 
+WI,'Waukesha',KUES 
+WI,'Waupaca',KCLI 
+WI,'Waupaca',KPCZ 
+WI,'Waushara',KY50 
+WI,'Winnebago',KOSH 
+WI,'Wood',KISW 
+WI,'Wood',KMFI 
+WV,'Berkeley',KMRB 
+WV,'Braxton',K48I 
+WV,'Eastern Grant',KW99 
+WV,'Eastern Greenbrier',KLWB 
+WV,'Eastern Mineral',KCBE 
+WV,'Harrison',KCKB 
+WV,'Kanawha',KCRW 
+WV,'Mason',K3I2 
+WV,'Mercer',KBLF 
+WV,'Monongalia',KMGW 
+WV,'Northwest Randolph',KEKN 
+WV,'Ohio',KHLG 
+WV,'Southeast Raleigh',KBKW 
+WV,'Upshur',KW22 
+WV,'Wayne',KHTS 
+WV,'Wood',KPKB 
+WV,'Wyoming',KI16 
+WY,'Central Carbon County',KRWL 
+WY,'Central Laramie County',KCYS 
+WY,'Cody Foothills',KCOD 
+WY,'Converse County Lower Elevations',KDGW 
+WY,'East Sweetwater County',KRKS 
+WY,'Goshen County',KTOR 
+WY,'Jackson Hole',KJAC 
+WY,'Lander Foothills',KLND 
+WY,'Laramie Valley',KLAR 
+WY,'Natrona County Lower Elevations',KCPR 
+WY,'North Bighorn Basin',KGEY 
+WY,'Northeast Johnson County',KBYG 
+WY,'Northern Campbell',KGCC 
+WY,'Sheridan Foothills',KSHR 
+WY,'Southeast Bighorn Basin',KWRL 
+WY,'Southwest Wyoming',KEVW 
+WY,'Upper Green River Basin Foothills',KPNA 
+WY,'Upper Green River Basin',KBPI 
+WY,'Wind River Basin',KRIW 
